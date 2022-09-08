@@ -1,5 +1,5 @@
-#Hello! Welcome to my page
-###I'm Yugyeong, From South Korea
-###University student at University of South Korea
+<h1>Hello! Welcome to my page</h1>
+<h3>I'm Yugyeong, From South Korea</h3>
+<h3>University student at University of South Korea</h3>
 
-🌱 I’m currently learning about game development
+<p>🌱 I’m currently learning about game development</p>
