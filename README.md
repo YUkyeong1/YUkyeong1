@@ -3,4 +3,4 @@
 <h3>University student at University of South Korea</h3>
 
 <p>🌱 I’m currently learning about game development</p>
-<a href="https://yukyeong1.github.io" target="_blank">Studying & development journal</a>
+<a href="https://choiyu7800.tistory.com" target="_blank">Studying & development journal</a>
